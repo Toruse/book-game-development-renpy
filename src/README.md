@@ -23,7 +23,7 @@
 ## Оглавление
 
 * [Глава 1. Истории и как они создаются](chapter_1.md#гnава-1-истории-и-как-они-создаются) 
-  * A Little Introduction to Dramatic Elements 
+  * [Введение в драматическую составляющую](chapter_1.md#введение-в-драматическую-составnяющую) 
     * Antagonist 
     * Protagonist 
     * Alter Ego 
