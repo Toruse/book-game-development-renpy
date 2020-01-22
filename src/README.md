@@ -27,13 +27,13 @@
     * [Антагонист](chapter_1.md#антагонист) 
     * [Протагонист](chapter_1.md#протагонист) 
     * [Альтер эго](chapter_1.md#аnьтер-эго) 
-    * Catharsis 
-    * Conflict 
-    * Cliché 
-    * Deus Ex Machina 
-    * Double Entendre 
-    * Exposition 
-    * Flat/Round Character 
+    * [Катарсис](chapter_1.md#катарсис)
+    * [Конфликт](chapter_1.md#конфnикт)
+    * [Клише](chapter_1.md#кnише)
+    * [Рояль в кустах](chapter_1.md#рояnь-в-кустах-deus-ex-machina) 
+    * [Двусмысленность](chapter_1.md#двусмысnенность)
+    * [Экспозиция](chapter_1.md#экспозиция)
+    * [Плоский/круглый персонаж](chapter_1.md#пnоский-кругnый-персонаж) 
     * Fourth Wall 
     * Narration/Narrator 
     * Onomatopoeia 
