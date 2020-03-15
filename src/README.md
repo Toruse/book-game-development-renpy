@@ -34,11 +34,11 @@
     * [Двусмысленность](chapter_1.md#двусмысnенность)
     * [Экспозиция](chapter_1.md#экспозиция)
     * [Плоский/круглый персонаж](chapter_1.md#пnоский-кругnый-персонаж) 
-    * Fourth Wall 
-    * Narration/Narrator 
-    * Onomatopoeia 
-    * Personification 
-    * Point of View (POV) 
+    * [Четвёртая стена](chapter_1.md#четвёртая-стена) 
+    * [Повествование/Повествователь](chapter_1.md#повествование-повествоватеnь)
+    * [Ономатопея (Звукоподражание)](chapter_1.md#ономатопея-звукоподражание)
+    * [Персонификация](chapter_1.md#персонификация) 
+    * [Точка зрения (POV-персонаж)](chapter_1.md#точка-зрения-pov-персонаж)
     * Simile 
     * Soliloquy 
   * Aristotelian Poetics 
