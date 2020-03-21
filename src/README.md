@@ -39,10 +39,10 @@
     * [Ономатопея (Звукоподражание)](chapter_1.md#ономатопея-звукоподражание)
     * [Персонификация](chapter_1.md#персонификация) 
     * [Точка зрения (POV-персонаж)](chapter_1.md#точка-зрения-pov-персонаж)
-    * Simile 
-    * Soliloquy 
-  * Aristotelian Poetics 
-  * The Monomyth: A Hero’s Journey 
+    * [Сравнение](chapter_1.md#сравнение)
+    * [Монолог](chapter_1.md#моноnог)
+  * [Аристотель Поэтика](chapter_1.md#аристотеnь-поэтика) 
+  * [Мономиф: Путешествие героя](chapter_1.md#мономиф-путешествие-героя) 
     * Taking Back August – A Synopsis Act I: Departure  
     * Act II: Initiation 
     * Act III: Return 
