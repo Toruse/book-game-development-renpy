@@ -43,7 +43,7 @@
     * [Монолог](chapter_1.md#моноnог)
   * [Аристотель Поэтика](chapter_1.md#аристотеnь-поэтика) 
   * [Мономиф: Путешествие героя](chapter_1.md#мономиф-путешествие-героя) 
-    * Taking Back August – A Synopsis Act I: Departure  
+    * [Август возвращается – Синопсис. Акт I: Исход](chapter_1.md#август-возвращается-–-синопсис-акт-i-исход)  
     * Act II: Initiation 
     * Act III: Return 
   * The 12 Character Archetypes 
