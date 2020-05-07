@@ -46,11 +46,11 @@
     * [Август возвращается – Синопсис. Акт I: Исход](chapter_1.md#август-возвращается-–-синопсис-акт-i-исход)  
     * [Акт II: Инициация](chapter_1.md#акт-ii-инициация)
     * [Акт III: Возвращение](chapter_1.md#акт-iii-возвращение)
-  * The 12 Character Archetypes 
-    1. The Hero 
-    2. John/Jane Doe 
-    3. The Rebel 
-    4. The Joker 
+  * [12 архетипов личности](chapter_1.md#_12-архетипов-nичности)
+    1. [Герой](chapter_1.md#_1-герой)
+    2. [Джон/Джейн Доу](chapter_1.md#_2-джон-джейн-доу)
+    3. [Бунтарь](chapter_1.md#_3-бунтарь)
+    4. [Шут](chapter_1.md##_4-шут)
     5. The Ruler 
     6. The Sage 
     7. The Magician 
