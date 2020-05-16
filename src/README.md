@@ -50,13 +50,13 @@
     1. [Герой](chapter_1.md#_1-герой)
     2. [Джон/Джейн Доу](chapter_1.md#_2-джон-джейн-доу)
     3. [Бунтарь](chapter_1.md#_3-бунтарь)
-    4. [Шут](chapter_1.md##_4-шут)
-    5. The Ruler 
-    6. The Sage 
-    7. The Magician 
-    8. The Creator 
-    9. The Lover 
-    10. The Innocent One 
+    4. [Шут](chapter_1.md#_4-шут)
+    5. [Правитель](chapter_1.md#_5-правитеnь)
+    6. [Мудрец](chapter_1.md#_6-мудрец)
+    7. [Маг](chapter_1.md#_7-маг)
+    8. [Творец](chapter_1.md#_8-творец)
+    9. [Любовник](chapter_1.md#_9-любовник)
+    10. [Невинный](chapter_1.md#_10-невинный)
     11. The Explorer 
     12. The Healer 
   * Ten Visual Novel Good Practices 
