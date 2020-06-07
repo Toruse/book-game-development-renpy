@@ -57,12 +57,12 @@
     8. [Творец](chapter_1.md#_8-творец)
     9. [Любовник](chapter_1.md#_9-любовник)
     10. [Невинный](chapter_1.md#_10-невинный)
-    11. The Explorer 
-    12. The Healer 
-  * Ten Visual Novel Good Practices 
-    1. Put the Story First 
-    2. Choose the Engine Carefully 
-    3. Don’t Overlook the Audiovisuals 
+    11. [Искатель](chapter_1.md#_11-искатеnь)
+    12. [Целитель](chapter_1.md#_12-цеnитеnь)
+  * [Десять наилучших практик](chapter_1.md#десять-наиnучших-практик)
+    1. [Заложи основу истории](chapter_1.md#_1-заnожи-основу-истории)
+    2. [Тщательно выбирайте игровой движок](chapter_1.md#_2-тщатеnьно-выбирайте-игровой-движок)
+    3. [Не забывайте про музыкальное и звуковое оформление](chapter_1.md#_3-не-забывайте-про-музыкаnьное-и-звуковое-оформnение)
     4. Make Your Characters Grow 
     5. Honor the Sub-genre of Your Visual Novel 
     6. Use Clichés Wisely 
