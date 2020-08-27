@@ -63,11 +63,11 @@
     1. [Заложи основу истории](chapter_1.md#_1-заnожи-основу-истории)
     2. [Тщательно выбирайте игровой движок](chapter_1.md#_2-тщатеnьно-выбирайте-игровой-движок)
     3. [Не забывайте про музыкальное и звуковое оформление](chapter_1.md#_3-не-забывайте-про-музыкаnьное-и-звуковое-оформnение)
-    4. Make Your Characters Grow 
-    5. Honor the Sub-genre of Your Visual Novel 
-    6. Use Clichés Wisely 
-    7. Trim Unnecessary Elements 
-    8. Bond with Your Audience 
+    4. [Ваши персонажи должны развиваться](chapter_1.md#_4-ваши-персонажи-доnжны-развиваться)
+    5. [Придерживайтесь выбранного жанра в вашей визуальной новелле](chapter_1.md#_5-придерживайтесь-выбранного-жанра-в-вашей-визуаnьной-новеnnе)
+    6. [Используйте клише с умом](chapter_1.md#_6-испоnьзуйте-кnише-с-умом)
+    7. [Убирайте ненужное](chapter_1.md##_7-убирайте-ненужное) 
+    8. [Связь с аудиторией](chapter_1.md#_8-связь-с-аудиторией)
     9. Only Provide the Endings Your Story Needs 
     10. Indulge in Forced Reading Sparingly 
   * Working for the Visual Novel Industry 
