@@ -68,11 +68,11 @@
     6. [Используйте клише с умом](chapter_1.md#_6-испоnьзуйте-кnише-с-умом)
     7. [Убирайте ненужное](chapter_1.md##_7-убирайте-ненужное) 
     8. [Связь с аудиторией](chapter_1.md#_8-связь-с-аудиторией)
-    9. Only Provide the Endings Your Story Needs 
-    10. Indulge in Forced Reading Sparingly 
-  * Working for the Visual Novel Industry 
-    * Visuals and Animation 
-    * Audio Production and Voice Acting 
+    9. [Создавайте уместные концовки](chapter_1.md#_9-создавайте-уместные-концовки)
+    10. [Не принуждайте все читать под ряд](chapter_1.md#_10-не-принуждайте-все-читать-под-ряд)
+  * [Индустрия визуальных новелл](chapter_1.md#индустрия-визуаnьных-новеnn)
+    * [Визуализация и анимация](chapter_1.md#визуаnизация-и-анимация)
+    * [Аудио сопровождение и озвучивание](chapter_1.md#аудио-сопровождение-и-озвучивание)
     * Programming 
     * Testing 
     * Localization 
