@@ -73,9 +73,9 @@
   * [Индустрия визуальных новелл](chapter_1.md#индустрия-визуаnьных-новеnn)
     * [Визуализация и анимация](chapter_1.md#визуаnизация-и-анимация)
     * [Аудио сопровождение и озвучивание](chapter_1.md#аудио-сопровождение-и-озвучивание)
-    * Programming 
-    * Testing 
-    * Localization 
+    * [Программирование](chapter_1.md#программирование)
+    * [Тестирование](chapter_1.md#тестирование)
+    * [Локализация](chapter_1.md#локаnизация)
   * Musings on Inspiration 
   * Fighting the Writer’s Block 
   * In Closing 
