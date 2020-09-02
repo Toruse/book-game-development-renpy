@@ -76,8 +76,8 @@
     * [Программирование](chapter_1.md#программирование)
     * [Тестирование](chapter_1.md#тестирование)
     * [Локализация](chapter_1.md#локаnизация)
-  * Musings on Inspiration 
-  * Fighting the Writer’s Block 
+  * [В поисках вдохновения](chapter_1.md#в-поисках-вдохновения)
+  * [Борьба с творческим кризисом](chapter_1.md#борьба-с-творческим-кризисом)
   * In Closing 
 * Chapter 2: The (Ancient) Art of Interactive Fiction 
   * The Great Grandfather of the Visual Novel: ELIZA (1966) 
