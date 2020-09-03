@@ -78,7 +78,7 @@
     * [Локализация](chapter_1.md#локаnизация)
   * [В поисках вдохновения](chapter_1.md#в-поисках-вдохновения)
   * [Борьба с творческим кризисом](chapter_1.md#борьба-с-творческим-кризисом)
-  * In Closing 
+  * [Заключение](chapter_1.md#закnючение)
 * Chapter 2: The (Ancient) Art of Interactive Fiction 
   * The Great Grandfather of the Visual Novel: ELIZA (1966) 
   * The Grandfather of the Genre: Colossal Cave Adventure (1975)  
