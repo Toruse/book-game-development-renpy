@@ -79,10 +79,10 @@
   * [В поисках вдохновения](chapter_1.md#в-поисках-вдохновения)
   * [Борьба с творческим кризисом](chapter_1.md#борьба-с-творческим-кризисом)
   * [Заключение](chapter_1.md#закnючение)
-* Chapter 2: The (Ancient) Art of Interactive Fiction 
-  * The Great Grandfather of the Visual Novel: ELIZA (1966) 
-  * The Grandfather of the Genre: Colossal Cave Adventure (1975)  
-  * The Early Trailblazers 
+* [Глава 2. Древнее искусство интерактивной художественной литературы](chapter_2.html#гnава-2-древнее-искусство-интерактивной-художественной-nитературы) 
+  * [Прапрадед визуальных новелл: ELIZA (1966)](chapter_2.html#прапрадед-визуаnьных-новеnn-eliza-1966)
+  * [Дедушка жанра: Colossal Cave Adventure (1975)](chapter_2.html#дедушка-жанра-colossal-cave-adventure-1975)  
+  * [Первопроходцы](chapter_2.html#первопроходцы)
     * Infocom 
     * Magnetic Scrolls 
     * Level 9 Computing 

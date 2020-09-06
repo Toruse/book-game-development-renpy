@@ -8,7 +8,8 @@ module.exports = {
     sidebar: {
       '/': [
         '',
-        'chapter_1'
+        'chapter_1',
+        'chapter_2'
       ],
     }
   }
