@@ -83,7 +83,7 @@
   * [Прапрадед визуальных новелл: ELIZA (1966)](chapter_2.html#прапрадед-визуаnьных-новеnn-eliza-1966)
   * [Дедушка жанра: Colossal Cave Adventure (1975)](chapter_2.html#дедушка-жанра-colossal-cave-adventure-1975)  
   * [Первопроходцы](chapter_2.html#первопроходцы)
-    * Infocom 
+    * [Infocom](chapter_2.html#infocom)
     * Magnetic Scrolls 
     * Level 9 Computing 
   * Other Notable Games in the Genre 
