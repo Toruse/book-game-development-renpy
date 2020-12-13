@@ -84,7 +84,7 @@
   * [Дедушка жанра: Colossal Cave Adventure (1975)](chapter_2.html#дедушка-жанра-colossal-cave-adventure-1975)  
   * [Первопроходцы](chapter_2.html#первопроходцы)
     * [Infocom](chapter_2.html#infocom)
-    * Magnetic Scrolls 
+    * [Magnetic Scrolls](chapter_2.html#magnetic-scrolls)
     * Level 9 Computing 
   * Other Notable Games in the Genre 
     * King’s Quest: Quest for the Crown by Sierra On-Line (1984)  
