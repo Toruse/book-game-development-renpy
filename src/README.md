@@ -85,7 +85,7 @@
   * [Первопроходцы](chapter_2.html#первопроходцы)
     * [Infocom](chapter_2.html#infocom)
     * [Magnetic Scrolls](chapter_2.html#magnetic-scrolls)
-    * Level 9 Computing 
+    * [Level 9 Computing](chapter_2.html#level-9-computing)
   * Other Notable Games in the Genre 
     * King’s Quest: Quest for the Crown by Sierra On-Line (1984)  
     * The Spellcasting Trilogy by Legend Entertainment (1990–1992)  
@@ -141,8 +141,8 @@
     * Open Sorcery by Abigail Corfman (2017)  
     * Simulacra by Kaigan Games (2017)  
     * Simulacra: Pipe Dreams (2018)  
-  * How We Do It – Modern Tools for Visual Novels 
-    * Ren’Py 
+  * [Как это делается - современные инструменты для создания визуальных новелл](chapter_3.html#как-это-деnается-современные-инструменты-дnя-создания-визуаnьных-новеnn) 
+    * [Ren’Py](chapter_3.html#ren’py)
     * Twine 
     * Adrift 
     * TyranoBuilder by STRIKEWORKS (2015) 
