@@ -79,13 +79,13 @@
   * [В поисках вдохновения](chapter_1.md#в-поисках-вдохновения)
   * [Борьба с творческим кризисом](chapter_1.md#борьба-с-творческим-кризисом)
   * [Заключение](chapter_1.md#закnючение)
-* [Глава 2. Древнее искусство интерактивной художественной литературы](chapter_2.html#гnава-2-древнее-искусство-интерактивной-художественной-nитературы) 
-  * [Прапрадед визуальных новелл: ELIZA (1966)](chapter_2.html#прапрадед-визуаnьных-новеnn-eliza-1966)
-  * [Дедушка жанра: Colossal Cave Adventure (1975)](chapter_2.html#дедушка-жанра-colossal-cave-adventure-1975)  
-  * [Первопроходцы](chapter_2.html#первопроходцы)
-    * [Infocom](chapter_2.html#infocom)
-    * [Magnetic Scrolls](chapter_2.html#magnetic-scrolls)
-    * [Level 9 Computing](chapter_2.html#level-9-computing)
+* [Глава 2. Древнее искусство интерактивной художественной литературы](chapter_2.md#гnава-2-древнее-искусство-интерактивной-художественной-nитературы) 
+  * [Прапрадед визуальных новелл: ELIZA (1966)](chapter_2.md#прапрадед-визуаnьных-новеnn-eliza-1966)
+  * [Дедушка жанра: Colossal Cave Adventure (1975)](chapter_2.md#дедушка-жанра-colossal-cave-adventure-1975)  
+  * [Первопроходцы](chapter_2.md#первопроходцы)
+    * [Infocom](chapter_2.md#infocom)
+    * [Magnetic Scrolls](chapter_2.md#magnetic-scrolls)
+    * [Level 9 Computing](chapter_2.md#level-9-computing)
   * Other Notable Games in the Genre 
     * King’s Quest: Quest for the Crown by Sierra On-Line (1984)  
     * The Spellcasting Trilogy by Legend Entertainment (1990–1992)  
@@ -141,9 +141,9 @@
     * Open Sorcery by Abigail Corfman (2017)  
     * Simulacra by Kaigan Games (2017)  
     * Simulacra: Pipe Dreams (2018)  
-  * [Как это делается - современные инструменты для создания визуальных новелл](chapter_3.html#как-это-деnается-современные-инструменты-дnя-создания-визуаnьных-новеnn) 
-    * [Ren’Py](chapter_3.html#ren’py)
-    * Twine 
+  * [Как это делается - современные инструменты для создания визуальных новелл](chapter_3.md#как-это-деnается-современные-инструменты-дnя-создания-визуаnьных-новеnn) 
+    * [Ren’Py](chapter_3.md#ren’py)
+    * [Twine](chapter_3.md#twine)
     * Adrift 
     * TyranoBuilder by STRIKEWORKS (2015) 
     * VN Maker 
@@ -299,3 +299,4 @@
     * Blog 
     * Visual Novel Databases 
   * In Closing
+* [Источники](sources.md)
