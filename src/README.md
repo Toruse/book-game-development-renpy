@@ -86,15 +86,15 @@
     * [Infocom](chapter_2.md#infocom)
     * [Magnetic Scrolls](chapter_2.md#magnetic-scrolls)
     * [Level 9 Computing](chapter_2.md#level-9-computing)
-  * Other Notable Games in the Genre 
-    * King’s Quest: Quest for the Crown by Sierra On-Line (1984)  
-    * The Spellcasting Trilogy by Legend Entertainment (1990–1992)  
-    * Timequest by Legend Entertainment (1991)  
-    * Demoniak by Palace Software (1991)  
-  * How They Did It – Early Tools for Interactive Fiction 
-    * A Few Words on Parsers 
-    * Zork Interactive Language (ZIL) and the Z-machine 
-    * The Quill by Gilsoft (1983) 
+  * [Другие известные игры в этом жанре ](chapter_2.md#другие-известные-игры-в-этом-жанре) 
+    * [King’s Quest: Quest for the Crown от Sierra On-Line (1984)](chapter_2.md#king’s-quest-quest-for-the-crown-от-sierra-on-line-1984)
+    * [Трилогия Spellcasting от Legend Entertainment (1990–1992)](chapter_2.md#триnогия-spellcasting-от-legend-entertainment-1990–1992)
+    * [Timequest от Legend Entertainment (1991)](chapter_2.md#timequest-от-legend-entertainment-1991)
+    * [Demoniak от Palace Software (1991)](chapter_2.md#demoniak-от-palace-software-1991)
+  * [Как они это делали? Инструменты для создания интерактивной художественной литературы](chapter_2.md#как-они-это-деnаnи-инструменты-дnя-создания-интерактивной-художественной-nитературы) 
+    * [Несколько слов о парсерах](chapter_2.md#нескоnько-сnов-о-парсерах)
+    * [Zork Interactive Language (ZIL) или Z-machine](chapter_2.md#zork-interactive-language-зорк-интерактивный-язык-zil-иnи-z-machine)
+    * [Quill от Gilsoft (1983)](chapter_2.md#quill-от-gilsoft-1983)
     * Professional Adventure Writer by Gilsoft (1986) 
     * Adventure Game Toolkit by David Malmberg (1987) 
     * Inform by Graham Nelson (1993–) 
