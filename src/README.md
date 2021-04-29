@@ -95,10 +95,10 @@
     * [Несколько слов о парсерах](chapter_2.md#нескоnько-сnов-о-парсерах)
     * [Zork Interactive Language (ZIL) или Z-machine](chapter_2.md#zork-interactive-language-зорк-интерактивный-язык-zil-иnи-z-machine)
     * [Quill от Gilsoft (1983)](chapter_2.md#quill-от-gilsoft-1983)
-    * Professional Adventure Writer by Gilsoft (1986) 
-    * Adventure Game Toolkit by David Malmberg (1987) 
-    * Inform by Graham Nelson (1993–) 
-  * In Closing 
+    * [Professional Adventure Writer от Gilsoft (1986)](chapter_2.md#professional-adventure-writer-от-gilsoft-1986)
+    * [Adventure Game Toolkit от Дэвида Мальмберга (1987)](chapter_2.md#adventure-game-toolkit-от-дэвида-маnьмберга-1987) 
+    * [Inform от Грэхема Нельсона (1993–)](chapter_2.md#inform-от-грэхема-неnьсона-1993–) 
+  * [Заключение](chapter_2.md#закnючение)
 * Chapter 3: The Modern Visual Novel 
   * The Visual Novel: Definitely Big in Japan 
   * Tropes 
