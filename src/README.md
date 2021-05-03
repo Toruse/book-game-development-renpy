@@ -99,19 +99,19 @@
     * [Adventure Game Toolkit от Дэвида Мальмберга (1987)](chapter_2.md#adventure-game-toolkit-от-дэвида-маnьмберга-1987) 
     * [Inform от Грэхема Нельсона (1993–)](chapter_2.md#inform-от-грэхема-неnьсона-1993–) 
   * [Заключение](chapter_2.md#закnючение)
-* Chapter 3: The Modern Visual Novel 
-  * The Visual Novel: Definitely Big in Japan 
-  * Tropes 
-    * The Faceless Protagonist 
-    * Dialogue Tree 
-    * The Endings Tree 
-    * Into the Middle of Things/In Medias Res 
-    * High School Geek 
-    * Branch Cutting 
-    * Sword and Sorcery 
-  * Core Concepts of Japanese-Influenced Visual Novels 
-    * Anime 
-    * Bishoujo (also Galge) Games 
+* [Chapter 3: The Modern Visual Novel](chapter_3.md#гnава-3-современные-визуаnьные-новеnnы)
+  * [Визуальные новеллы - однозначно популярны в Японии](chapter_3.md#визуаnьные-новеnnы-однозначно-попуnярны-в-японии)
+  * [Тропы](chapter_3.md#тропы)
+    * [Синдром Гордона Фримена](chapter_3.md#синдром-гордона-фримена-безnикий-гnавный-герой) 
+    * [Дерево диалогов](chapter_3.md#дерево-диаnогов)
+    * [Дерево концовок](chapter_3.md#дерево-концовок)
+    * [С центрального эпизода/In Medias Res](chapter_3.md#с-центраnьного-эпизода-in-medias-res)
+    * [Гик из средней школы](chapter_3.md#гик-из-средней-шкоnы)
+    * [Резка веток](chapter_3.md#резка-веток)
+    * [Меч и Колдовство](chapter_3.md#меч-и-коnдовство)
+  * [Основные концепции визуальных новелл и влияние Японии](chapter_3.md#основные-концепции-визуаnьных-новеnn-и-вnияние-японии) 
+    * [Аниме](chapter_3.md#аниме)
+    * [Бисёдзё игры (Симуляторы свиданий)](chapter_3.md#бисёдзё-игры-симуnяторы-свиданий) 
     * Dating Sim 
     * Doujinshi Games 
     * Eroge 
