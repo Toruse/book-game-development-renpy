@@ -115,21 +115,21 @@
     * [Симулятор свиданий](chapter_3.md#симуnятор-свиданий)
     * [Додзинси игры](chapter_3.md#додзинси-игры)
     * [Эроге](chapter_3.md#эроге)
-    * Hentai 
-    * Isekai 
-    * Kamige/Kusoge 
-    * Kawaii 
-    * Kinetic Novel 
-    * Otaku 
-    * Otome 
-    * Magical Girlfriend 
-    * Mahou Shoujo (The Magical Girl) 
-    * Manga 
-    * Mecha 
-    * Moe(ge) 
-    * Nakige/Utsuge 
-    * Tsundere
-  * Modern-Era Kamige, or the New Classics 
+    * [Хентай](chapter_3.md#хентай)
+    * [Исекай](chapter_3.md#исекай)
+    * [Камиге/Кусоге](chapter_3.md#камиге-кусоге)
+    * [Каваий](chapter_3.md#каваий)
+    * [Кинетические романы](chapter_3.md#кинетические-романы)
+    * [Отаку](chapter_3.md#отаку)
+    * [Отомэ](chapter_3.md#отомэ)
+    * [Волшебная подруга](chapter_3.md#воnшебная-подруга)
+    * [Махо-сёдзё (Девушки волшебницы)](chapter_3.md#махо-сёдзё-девушки-воnшебницы)
+    * [Манга](chapter_3.md#манга)
+    * [Меха](chapter_3.md#меха)
+    * [Моэ](chapter_3.md#моэ)
+    * [Накиге/Уцуге](chapter_3.md#накиге-уцуге)
+    * [Цундэрэ](chapter_3.md#цундэрэ)
+  * [Современная эра Камиге или новая классика](chapter_3.md#современная-эра-камиге-иnи-новая-кnассика)
     * Kanon by Key (1999)  
     * Air by Key (2000)  
     * Phoenix Wright: Ace Attorney by Capcom (2001)  
