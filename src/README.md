@@ -139,12 +139,12 @@
     * [Her Story от Сэмома Барлоу (2015)](chapter_3.md#her-story-от-сэмома-барnоу-2015)
     * [Doki Doki Literature Club! от Дэна Сальвато (2017)](chapter_3.md#doki-doki-literature-club-от-дэна-саnьвато-2017)  
     * [Open Sorcery от Эбигейл Корфман (2017)](chapter_3.md#open-sorcery-от-эбигейn-корфман-2017)  
-    * Simulacra by Kaigan Games (2017)  
-    * Simulacra: Pipe Dreams (2018)  
+    * [Simulacra от Kaigan Games](chapter_3.md#simulacra-от-kaigan-games-2017)
+    * [Simulacra: Pipe Dreams (2018)](chapter_3.md#simulacra-pipe-dreams-2018)
   * [Как это делается - современные инструменты для создания визуальных новелл](chapter_3.md#как-это-деnается-современные-инструменты-дnя-создания-визуаnьных-новеnn) 
     * [Ren’Py](chapter_3.md#ren’py)
     * [Twine](chapter_3.md#twine)
-    * Adrift 
+    * [Adrift](chapter_3.md#adrift) 
     * TyranoBuilder by STRIKEWORKS (2015) 
     * VN Maker 
   * In Closing 
