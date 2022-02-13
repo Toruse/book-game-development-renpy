@@ -7,3 +7,7 @@
 * Posmotre.li https://posmotre.li
 * Renpy https://www.renpy.org/
 * Google https://www.google.com.ua
+* ФЭНДОМ https://www.fandom.com
+* Twine https://twinery.org/
+* Adrift https://www.adrift.co/
+* Visual Novel Maker https://visualnovelmaker.com/

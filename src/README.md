@@ -99,7 +99,7 @@
     * [Adventure Game Toolkit от Дэвида Мальмберга (1987)](chapter_2.md#adventure-game-toolkit-от-дэвида-маnьмберга-1987) 
     * [Inform от Грэхема Нельсона (1993–)](chapter_2.md#inform-от-грэхема-неnьсона-1993–) 
   * [Заключение](chapter_2.md#закnючение)
-* [Chapter 3: The Modern Visual Novel](chapter_3.md#гnава-3-современные-визуаnьные-новеnnы)
+* [Глава 3. Современные визуальные новеллы](chapter_3.md#гnава-3-современные-визуаnьные-новеnnы)
   * [Визуальные новеллы - однозначно популярны в Японии](chapter_3.md#визуаnьные-новеnnы-однозначно-попуnярны-в-японии)
   * [Тропы](chapter_3.md#тропы)
     * [Синдром Гордона Фримена](chapter_3.md#синдром-гордона-фримена-безnикий-гnавный-герой) 
@@ -145,10 +145,10 @@
     * [Ren’Py](chapter_3.md#ren’py)
     * [Twine](chapter_3.md#twine)
     * [Adrift](chapter_3.md#adrift) 
-    * TyranoBuilder by STRIKEWORKS (2015) 
-    * VN Maker 
-  * In Closing 
-* Chapter 4: Working in Ren’Py, Twine, and TyranoBuilder 
+    * [TyranoBuilder от STRIKEWORKS](chapter_3.md#tyranobuilder-от-strikeworks) 
+    * [VN Maker](chapter_3.md#vn-maker)
+  * [Заключение](chapter_3.md#закnючение)
+* [Глава 4. Знакомимся с Ren’Py, Twine и TyranoBuilder](chapter_4.md#гnава-4-знакомимся-с-ren’py-twine-и-tyranobuilder) 
   * Ren’Py in Detail 
     * How Ren’Py Works 
     * Starting a New Project 
