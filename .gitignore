@@ -190,3 +190,5 @@ fabric.properties
 /yarn.lock
 
 /push.sh
+/package-lock.json
+.temp

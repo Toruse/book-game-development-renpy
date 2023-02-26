@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Разработка игр с помощью Ren’Py","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Вступление","slug":"вступление","link":"#вступление","children":[]},{"level":2,"title":"Оглавление","slug":"оглавление","link":"#оглавление","children":[]}],"git":{},"filePathRelative":"README.md"}');export{e as data};

@@ -149,11 +149,11 @@
     * [VN Maker](chapter_3.md#vn-maker)
   * [Заключение](chapter_3.md#закnючение)
 * [Глава 4. Знакомимся с Ren’Py, Twine и TyranoBuilder](chapter_4.md#гnава-4-знакомимся-с-ren’py-twine-и-tyranobuilder) 
-  * Ren’Py in Detail 
-    * How Ren’Py Works 
-    * Starting a New Project 
-    * The Ren’Py Workflow 
-    * The Basics of Ren’Py Scripting 
+  * [Ren'Py в деталях](chapter_4.md#ren-py-в-детаnях)
+    * [Как работает Ren'Py](chapter_4.md#как-работает-ren-py)
+    * [Создание нового проекта](chapter_4.md#создание-нового-проекта)
+    * [Функционал Ren'Py](chapter_4.md#функционал-ren-py)
+    * [Основы в написания сценариев на Ren’Py](chapter_4.md#основы-в-написания-сценариев-на-ren-py)
     * Creating User Interaction: Menus 
     * Indentation and Text Blocks 
     * Conditional Statements: if, elif, else 
