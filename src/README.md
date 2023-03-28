@@ -154,7 +154,7 @@
     * [Создание нового проекта](chapter_4.md#создание-нового-проекта)
     * [Функционал Ren'Py](chapter_4.md#функционал-ren-py)
     * [Основы в написания сценариев на Ren’Py](chapter_4.md#основы-в-написания-сценариев-на-ren-py)
-    * Creating User Interaction: Menus 
+    * [Взаимодействуем с пользователем: Меню](chapter_4.md#взаимодеиствуем-с-пользователем-меню) 
     * Indentation and Text Blocks 
     * Conditional Statements: if, elif, else 
     * More on Control Statements 
