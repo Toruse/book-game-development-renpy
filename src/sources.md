@@ -11,3 +11,4 @@
 * Twine https://twinery.org/
 * Adrift https://www.adrift.co/
 * Visual Novel Maker https://visualnovelmaker.com/
+* Энциклопедия Ren'Py http://ru.renpypedia.shoutwiki.com/
