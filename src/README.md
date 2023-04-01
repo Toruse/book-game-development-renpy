@@ -155,11 +155,11 @@
     * [Функционал Ren'Py](chapter_4.md#функционал-ren-py)
     * [Основы в написания сценариев на Ren’Py](chapter_4.md#основы-в-написания-сценариев-на-ren-py)
     * [Взаимодействуем с пользователем: Меню](chapter_4.md#взаимодеиствуем-с-пользователем-меню) 
-    * Indentation and Text Blocks 
-    * Conditional Statements: if, elif, else 
-    * More on Control Statements 
-  * Twine in Detail 
-    * Linking Passages Together 
+    * [Отступы и текстовые блоки](chapter_4.md#отступы-и-текстовые-блоки)
+    * [Условные операторы: if, elif, else](chapter_4.md#условные-операторы-if-elif-else)
+    * [Подробней о операторе управления](chapter_4.md#подробнеи-об-операторе-управления) 
+  * [Twine в деталях](chapter_4.md#twine-в-деталях)
+    * [Связываем параграфы переходами](chapter_4.md#связываем-параграфы-переходами) 
     * Twine and Audiovisuals 
     * The Three Varieties of Twine 
     * Twine’s Many Macros 
