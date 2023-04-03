@@ -160,9 +160,9 @@
     * [Подробней о операторе управления](chapter_4.md#подробнеи-об-операторе-управления) 
   * [Twine в деталях](chapter_4.md#twine-в-деталях)
     * [Связываем параграфы переходами](chapter_4.md#связываем-параграфы-переходами) 
-    * Twine and Audiovisuals 
-    * The Three Varieties of Twine 
-    * Twine’s Many Macros 
+    * [Twine и аудиовизуал](chapter_4.md#twine-и-аудиовизуал)
+    * [Форматы Twine](chapter_4.md#форматы-twine)
+    * [Макросы в Twine](chapter_4.md#макросы-в-twine)
     * Twine’s User Interface Functions 
     * A Few Words on the IFID
     * Some Useful CSS Selectors 
