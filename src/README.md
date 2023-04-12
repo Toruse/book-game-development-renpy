@@ -163,9 +163,9 @@
     * [Twine и аудиовизуал](chapter_4.md#twine-и-аудиовизуал)
     * [Форматы Twine](chapter_4.md#форматы-twine)
     * [Макросы в Twine](chapter_4.md#макросы-в-twine)
-    * Twine’s User Interface Functions 
-    * A Few Words on the IFID
-    * Some Useful CSS Selectors 
+    * [Пользовательский интерфейс Twine](chapter_4.md#пользовательскии-интерфеис-twine) 
+    * [Несколько слов о IFID](chapter_4.md#несколько-слов-о-ifid)
+    * [Знакомимся с CSS](chapter_4.md#знакомимся-с-css) 
   * TyranoBuilder in Detail 
     * The TyranoBuilder Workflow 
     * A Two-Scene Adventure 

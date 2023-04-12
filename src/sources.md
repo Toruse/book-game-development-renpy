@@ -12,3 +12,5 @@
 * Adrift https://www.adrift.co/
 * Visual Novel Maker https://visualnovelmaker.com/
 * Энциклопедия Ren'Py http://ru.renpypedia.shoutwiki.com/
+* Документация по SugarCube https://www.motoslave.net/sugarcube/2/docs/
+* IFID https://ifdb.org/help-ifid
