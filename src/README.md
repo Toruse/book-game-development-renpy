@@ -166,9 +166,9 @@
     * [Пользовательский интерфейс Twine](chapter_4.md#пользовательскии-интерфеис-twine) 
     * [Несколько слов о IFID](chapter_4.md#несколько-слов-о-ifid)
     * [Знакомимся с CSS](chapter_4.md#знакомимся-с-css) 
-  * TyranoBuilder in Detail 
-    * The TyranoBuilder Workflow 
-    * A Two-Scene Adventure 
+  * [TyranoBuilder в деталях](chapter_4.md#tyranobuilder-в-деталях) 
+    * [Рабочий процесс в TyranoBuilder](chapter_4.md#рабочии-процесс-в-tyranobuilder)
+    * [Приключение в двух сценах](chapter_4.md#приключение-в-двух-сценах)
     * Characters in TyranoBuilder 
     * Adding Multimedia 
     * TyranoBuilder and Media Files 
