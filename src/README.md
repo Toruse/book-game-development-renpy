@@ -169,9 +169,9 @@
   * [TyranoBuilder в деталях](chapter_4.md#tyranobuilder-в-деталях) 
     * [Рабочий процесс в TyranoBuilder](chapter_4.md#рабочии-процесс-в-tyranobuilder)
     * [Приключение в двух сценах](chapter_4.md#приключение-в-двух-сценах)
-    * Characters in TyranoBuilder 
-    * Adding Multimedia 
-    * TyranoBuilder and Media Files 
+    * [Персонажи в TyranoBuilder](chapter_4.md#персонажи-в-tyranobuilder)
+    * [Добавление мультимедиа](chapter_4.md#добавление-мультимедиа)
+    * [TyranoBuilder и медиафайлы](chapter_4.md#tyranobuilder-и-медиафаилы)
     * A Few Words on Game Settings 
     * Scripting in TyranoBuilder 
     * Live2D 
