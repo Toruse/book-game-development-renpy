@@ -172,11 +172,11 @@
     * [Персонажи в TyranoBuilder](chapter_4.md#персонажи-в-tyranobuilder)
     * [Добавление мультимедиа](chapter_4.md#добавление-мультимедиа)
     * [TyranoBuilder и медиафайлы](chapter_4.md#tyranobuilder-и-медиафаилы)
-    * A Few Words on Game Settings 
-    * Scripting in TyranoBuilder 
-    * Live2D 
-  * In Closing 
-* Chapter 5: Deeper Down the Dungeon 
+    * [Несколько слов о Настройках игры](chapter_4.md#несколько-слов-о-настроиках-игры) 
+    * [Скрипты в TyranoBuilder](chapter_4.md#скрипты-в-tyranobuilder)
+    * [Live2D](chapter_4.md#live2d)
+  * [Заключение](chapter_4.md#заключение)
+* [Глава 5: Погружаемся глубже](chapter_5.md#глава-5-погружаемся-глубже) 
   * Ren’Py, Containers, and Codecs 
     * Using Video in Ren’Py 
     * Advanced Audio Functionality in Ren’Py 
