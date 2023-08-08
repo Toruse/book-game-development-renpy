@@ -177,9 +177,9 @@
     * [Live2D](chapter_4.md#live2d)
   * [Заключение](chapter_4.md#заключение)
 * [Глава 5: Погружаемся глубже](chapter_5.md#глава-5-погружаемся-глубже) 
-  * Ren’Py, Containers, and Codecs 
-    * Using Video in Ren’Py 
-    * Advanced Audio Functionality in Ren’Py 
+  * [Ren’Py, контейнеры и кодеки](chapter_5.md#ren-py-контеинеры-и-кодеки)
+    * [Видео в Ren’Py](chapter_5.md#видео-в-ren-py)
+    * [Расширенные функции аудио в Ren’Py](chapter_5.md#расширенные-функции-аудио-в-ren-py) 
     * Advanced Image Properties 
     * Customizing the Ren’Py GUI 
   * Advanced TyranoBuilder Techniques 
