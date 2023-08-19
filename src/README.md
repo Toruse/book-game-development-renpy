@@ -180,8 +180,8 @@
   * [Ren’Py, контейнеры и кодеки](chapter_5.md#ren-py-контеинеры-и-кодеки)
     * [Видео в Ren’Py](chapter_5.md#видео-в-ren-py)
     * [Расширенные функции аудио в Ren’Py](chapter_5.md#расширенные-функции-аудио-в-ren-py) 
-    * Advanced Image Properties 
-    * Customizing the Ren’Py GUI 
+    * [Подробней о графике](chapter_5.md#подробнеи-о-графике)
+    * [Настройка графического интерфейса в Ren’Py](chapter_5.md#настроика-графического-интерфеиса-в-ren-py) 
   * Advanced TyranoBuilder Techniques 
     * Plugins 
     * Of Variables and System Variables 
