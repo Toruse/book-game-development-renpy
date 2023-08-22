@@ -182,9 +182,9 @@
     * [Расширенные функции аудио в Ren’Py](chapter_5.md#расширенные-функции-аудио-в-ren-py) 
     * [Подробней о графике](chapter_5.md#подробнеи-о-графике)
     * [Настройка графического интерфейса в Ren’Py](chapter_5.md#настроика-графического-интерфеиса-в-ren-py) 
-  * Advanced TyranoBuilder Techniques 
-    * Plugins 
-    * Of Variables and System Variables 
+  * [Продвинутые функции TyranoBuilder](chapter_5.md#продвинутые-функции-tyranobuilder)
+    * [Плагины](chapter_5.md#плагины)
+    * [Переменные](chapter_5.md#переменные)
     * Randomized Dialogue 
     * iScript vs. JavaScript 
     * Clickable Image Areas 
