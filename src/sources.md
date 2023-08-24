@@ -15,3 +15,5 @@
 * Документация по SugarCube https://www.motoslave.net/sugarcube/2/docs/
 * IFID https://ifdb.org/help-ifid
 * TyranoBuilder: https://tyranobuilder.com/
+* TyranoBuilder: https://tyrano.jp/
+* Tyrano Plugin Library: https://plugin.tyrano.jp/
