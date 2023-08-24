@@ -185,7 +185,7 @@
   * [Продвинутые функции TyranoBuilder](chapter_5.md#продвинутые-функции-tyranobuilder)
     * [Плагины](chapter_5.md#плагины)
     * [Переменные](chapter_5.md#переменные)
-    * Randomized Dialogue 
+    * [Случайный диалог](chapter_5.md#случаиныи-диалог)
     * iScript vs. JavaScript 
     * Clickable Image Areas 
     * Custom Fonts in TyranoBuilder 
