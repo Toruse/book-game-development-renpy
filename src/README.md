@@ -186,9 +186,9 @@
     * [Плагины](chapter_5.md#плагины)
     * [Переменные](chapter_5.md#переменные)
     * [Случайный диалог](chapter_5.md#случаиныи-диалог)
-    * iScript vs. JavaScript 
-    * Clickable Image Areas 
-    * Custom Fonts in TyranoBuilder 
+    * [iScript в сравнении с JavaScript](chapter_5.md#iscript-в-сравнении-с-javascript)
+    * [Кликабельные области изображения](chapter_5.md#кликабельные-области-изображения)
+    * [Пользовательские шрифты](chapter_5.md#пользовательские-шрифты)
   * Twine Magic 
     * Evoking JavaScript in Twine 
     * Text Reveal Effect in CSS 
