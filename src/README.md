@@ -189,10 +189,10 @@
     * [iScript в сравнении с JavaScript](chapter_5.md#iscript-в-сравнении-с-javascript)
     * [Кликабельные области изображения](chapter_5.md#кликабельные-области-изображения)
     * [Пользовательские шрифты](chapter_5.md#пользовательские-шрифты)
-  * Twine Magic 
-    * Evoking JavaScript in Twine 
-    * Text Reveal Effect in CSS 
-    * Spicing Up the Text 
+  * [Магия Twine](chapter_5.md#магия-twine) 
+    * [Вызов JavaScript в Twine](chapter_5.md#вызов-javascript-в-twine)
+    * [Анимация раскрытия текста в CSS](chapter_5.md#анимация-раскрытия-текста-в-css)
+    * [Оживляем текст](chapter_5.md#оживляем-текст)
     * An Introduction to Harlowe 
     * Enter Snowman! 
   * In Closing 
