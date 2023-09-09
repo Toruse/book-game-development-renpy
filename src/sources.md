@@ -17,3 +17,5 @@
 * TyranoBuilder: https://tyranobuilder.com/
 * TyranoBuilder: https://tyrano.jp/
 * Tyrano Plugin Library: https://plugin.tyrano.jp/
+* jQuery: https://jquery.com/
+* Документация по jQuery: https://api.jquery.com/
