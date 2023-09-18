@@ -729,3 +729,78 @@ __Таблица 5-9.__ Методы эффектов в jQuery
 | _slideToggle_ | Эффекты скольжения позволяют плавно скрыть или раскрыть элемент. Можно указать скорость эффекта 'slow', 'fast' или значение в миллисекундах. По умолчанию значение равно "swing". | $(document).ready(function(){<br>$("#button").click(function(){<br>$("#panel").**slideToggle**(2000);<br>});<br>});<br>\<style\><br>#panel, #button {<br>padding: 3px;<br>text-align: center;<br>background-color: #red;<br>border: solid 1px #yellow;<br>}<br>#panel {<br>padding: 40px;<br>**display: none;**<br>}<br>\</style\><br>\<div id="button"\>Нажмите здесь\</div\><br>\<div id="panel"\>Скрытое послание!\</div\> |
 
 #### Больше об анимации
+
+Давайте вернемся к методу jQuery _animate_, с которым мы познакомились ранее в этой главе. Данный метод способен на 
+гораздо большее, нежели просто изменять ширину элемента, а именно, анимировать сразу несколько атрибутов одновременно. 
+Следующий код, наглядно это показывает. После запуска игры, следите, как изменится слой _happybox_.
+
+```html
+<style>
+    .happybox {
+        width: 100px;
+        height: 100px;
+        background: red;
+        margin-top: 30px;
+        border-style: solid;
+        border-color: black;
+    }
+</style>
+<script>
+    $(document).ready(function () {
+        $("button").click(function () {
+            $(".happybox").animate({
+                width: "200px", 
+                height: "200px", 
+                marginLeft: "30px", 
+                borderWidth: "10px",
+            });
+        });
+    });
+</script>
+
+<button type="button">Посмотри на меня!</button>
+<div class="happybox"></div>
+```
+
+### Знакомимся с Snowman
+
+Формат истории "_Snowman_ (_Снеговик_)" имеет очень простой подход для создания игр в Twine, и использует язык разметки 
+_Markdown_. Данный язык, созданный _Джоном Грубером_, основан на использовании минимального количества специальных 
+символов для форматирования текста (см. пример ниже).
+
+```Markdown
+# Header1
+## Header2
+### Header3
+#### Header4
+##### Header5
+###### Header6
+*Emphasized*
+**Bold**
+~~Deletion~~
+```
+
+После вставки данного кода в параграф Snowman мы получим результат, как показан на рисунке 5-6.
+
+![Рисунок 5-5. Пример форматирования текста в формате истории "Snowman"](./img/chapter_5/figure_5_5.png)
+
+__Рисунок 5-5.__ Пример форматирования текста в формате истории "Snowman"
+
+#### Snowman, JavaScript и Underscore
+
+Формат истории «Snowman» был разработан с учётом поддержки JavaScript и CSS, поэтому в нем нет макросов как в SugarCube 
+и Harlowe.
+
+Так же Snowman включает в себя библиотеку _Underscore_, содержащая в себя довольно много продвинутых методов сортировки 
+и обработки данных.
+
+Чтобы интегрировать JavaScript и Underscore используются теги _<%_ и _%>_, а для вывода данных используются теги _<%=_ 
+и _%>_. Пример использования данных тегов показан ниже.
+
+```Markdown
+<% alert( 'Привет, мир!' ); %>
+Интересно, сколько будет 1+2? Это будет <%= 1+2 %>.
+```
+
+#### Snowman и переменные
+

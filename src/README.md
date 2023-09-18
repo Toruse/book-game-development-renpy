@@ -194,7 +194,7 @@
     * [Анимация раскрытия текста в CSS](chapter_5.md#анимация-раскрытия-текста-в-css)
     * [Оживляем текст](chapter_5.md#оживляем-текст)
     * [Знакомимся с форматом истории Harlowe](chapter_5.md#знакомимся-с-форматом-истории-harlowe) 
-    * Enter Snowman! 
+    * [Знакомимся с Snowman](chapter_5.md#знакомимся-с-snowman)
   * In Closing 
 * Chapter 6: Deploying for Popular Platforms 
   * Ren’Py and the Desktops 
