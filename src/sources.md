@@ -19,3 +19,4 @@
 * Tyrano Plugin Library: https://plugin.tyrano.jp/
 * jQuery: https://jquery.com/
 * Документация по jQuery: https://api.jquery.com/
+* Библиотека Underscore.js: https://underscorejs.org/
