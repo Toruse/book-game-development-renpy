@@ -195,10 +195,10 @@
     * [Оживляем текст](chapter_5.md#оживляем-текст)
     * [Знакомимся с форматом истории Harlowe](chapter_5.md#знакомимся-с-форматом-истории-harlowe) 
     * [Знакомимся с Snowman](chapter_5.md#знакомимся-с-snowman)
-  * In Closing 
-* Chapter 6: Deploying for Popular Platforms 
-  * Ren’Py and the Desktops 
-    * Minimum System Requirements 
+  * [Заключение](chapter_5.md#заключение)
+* [Глава 6. Запускаем на популярных платформах](chapter_6.md#глава-6-запускаем-на-популярных-платформах) 
+  * [Ren’Py и персональные компьютеры](chapter_6.md#ren-py-и-персональные-компьютеры)
+    * [Минимальные системные требования](chapter_6.md#минимальные-системные-требования)
     * Icons for Desktops 
   * Ren’Py for Mobile Devices 
     * Deploying for Android 
