@@ -199,15 +199,15 @@
 * [Глава 6. Запускаем на популярных платформах](chapter_6.md#глава-6-запускаем-на-популярных-платформах) 
   * [Ren’Py и персональные компьютеры](chapter_6.md#ren-py-и-персональные-компьютеры)
     * [Минимальные системные требования](chapter_6.md#минимальные-системные-требования)
-    * Icons for Desktops 
-  * Ren’Py for Mobile Devices 
-    * Deploying for Android 
-    * Icons and the Splash Screen 
-    * Keybindings in Android 
-    * Testing Your Android App in Ren’Py 
-    * Deploying for iOS 
-    * Xcode and the iOS Process 
-    * Updating Your iOS Projects 
+    * [Иконки для персонального компьютера](chapter_6.md#иконки-для-персонального-компьютера)
+  * [Ren’Py для мобильных устройств](chapter_6.md#ren-py-для-мобильных-устроиств)
+    * [Развертываем на Android-е](chapter_6.md#развертываем-на-android-е)
+    * [Иконки и экран-заставка](chapter_6.md#иконки-и-экран-заставка)
+    * [Сочетания клавиш в Android](chapter_6.md#иконки-и-экран-заставка)
+    * [Тестирование Android-приложения](chapter_6.md#тестирование-android-приложения)
+    * [Развертываем на iOS](chapter_6.md#развертываем-на-ios)
+    * [Xcode и iOS](chapter_6.md#xcode-и-ios)
+    * [Обновляем ваши iOS-проекты](chapter_6.md#обновляем-ваши-ios-проекты)
     * App Icons and Splash Screens for iOS 
   * Deploying for Chrome OS/Chrome Browser 
     * Legalese for Android and iOS in Ren’Py 
