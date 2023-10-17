@@ -208,14 +208,14 @@
     * [Развертываем на iOS](chapter_6.md#развертываем-на-ios)
     * [Xcode и iOS](chapter_6.md#xcode-и-ios)
     * [Обновляем ваши iOS-проекты](chapter_6.md#обновляем-ваши-ios-проекты)
-    * App Icons and Splash Screens for iOS 
-  * Deploying for Chrome OS/Chrome Browser 
-    * Legalese for Android and iOS in Ren’Py 
-  * Ren’Py for the Quirky: Raspberry Pi 
-    * Setting Up a Pi for Ren’Py 
-  * TyranoBuilder for Desktops 
-    * TyranoBuilding for iOS 
-    * TyranoBuilding for Android 
+    * [Иконки и экран-заставка для iOS](chapter_6.md#иконки-и-экран-заставка-для-ios) 
+  * [Запускаем на Chrome OS и в браузере](chapter_6.md#запускаем-на-chrome-os-и-в-браузере)
+  * [Лицензия на Android и iOS в Ren’Py](chapter_6.md#лицензия-на-android-и-ios-в-ren-py) 
+  * [Ren’Py и Raspberry Pi](chapter_6.md#ren-py-и-raspberry-pi)
+    * [Настройка Pi для Ren’Py](chapter_6.md#настроика-pi-для-ren-py)
+  * [TyranoBuilder и персональные компьютеры](chapter_6.md#tyranobuilder-и-персональные-компьютеры)
+    * [TyranoBuilding и iOS](chapter_6.md#tyranobuilding-и-ios)
+    * [TyranoBuilding и Android](chapter_6.md#tyranobuilding-и-android)
     * Additional Android Advice 
   * Twine for the Desktops 
     * Twine for iOS and Android 

@@ -20,3 +20,7 @@
 * jQuery: https://jquery.com/
 * Документация по jQuery: https://api.jquery.com/
 * Библиотека Underscore.js: https://underscorejs.org/
+* Документация Android для разработчиков: https://developer.android.com/
+* Документация для разработчиков Apple: https://developer.apple.com/
+* Cправка Google: https://support.google.com/
+* Cправка по Chromium OS: https://sites.google.com/a/chromium.org/dev/chromium-projects
