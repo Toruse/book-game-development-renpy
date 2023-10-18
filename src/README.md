@@ -216,7 +216,7 @@
   * [TyranoBuilder и персональные компьютеры](chapter_6.md#tyranobuilder-и-персональные-компьютеры)
     * [TyranoBuilding и iOS](chapter_6.md#tyranobuilding-и-ios)
     * [TyranoBuilding и Android](chapter_6.md#tyranobuilding-и-android)
-    * Additional Android Advice 
+    * [Дополнительные советы по Android](chapter_6.md#дополнительные-советы-по-android)
   * Twine for the Desktops 
     * Twine for iOS and Android 
     * The Wonders of PhoneGap Build 
