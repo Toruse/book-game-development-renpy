@@ -217,14 +217,13 @@
     * [TyranoBuilding и iOS](chapter_6.md#tyranobuilding-и-ios)
     * [TyranoBuilding и Android](chapter_6.md#tyranobuilding-и-android)
     * [Дополнительные советы по Android](chapter_6.md#дополнительные-советы-по-android)
-  * Twine for the Desktops 
-    * Twine for iOS and Android 
-    * The Wonders of PhoneGap Build 
-    * Splash Screens for Android 
-    * Icons for Android 
-    * Splash Screens for iOS 
+  * [Twine и персональные компьютеры](chapter_6.md#twine-и-персональные-компьютеры) 
+    * [Twine на iOS и Android](chapter_6.md#twine-на-ios-и-android)
+    * [Чудеса сборки проекта на Apache Cordova](chapter_6.md#чудеса-сборки-проекта-на-apache-cordova)
+    * [Экран заставки для Android](chapter_6.md#экран-заставки-для-android)
+    * [Иконки для Android](chapter_6.md#иконки-для-android)
+    * [Экран заставки для iOS](chapter_6.md#экран-заставки-для-ios)
     * Icons for iOS 
-    * The Apple p12 Certificate and PhoneGap 
   * In Closing 
 * Chapter 7: Three Little Games 
   * Laying Out a Plan 

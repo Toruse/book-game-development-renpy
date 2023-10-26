@@ -24,3 +24,4 @@
 * Документация для разработчиков Apple: https://developer.apple.com/
 * Cправка Google: https://support.google.com/
 * Cправка по Chromium OS: https://sites.google.com/a/chromium.org/dev/chromium-projects
+* Apache Cordova: https://cordova.apache.org/
