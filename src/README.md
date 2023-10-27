@@ -223,9 +223,9 @@
     * [Экран заставки для Android](chapter_6.md#экран-заставки-для-android)
     * [Иконки для Android](chapter_6.md#иконки-для-android)
     * [Экран заставки для iOS](chapter_6.md#экран-заставки-для-ios)
-    * Icons for iOS 
-  * In Closing 
-* Chapter 7: Three Little Games 
+    * [Иконки для iOS](chapter_6.md#иконки-для-ios)
+  * [Заключение](chapter_6.md#заключение)
+* [Глава 7. Три мини игры](chapter_7.md#глава-7-три-мини-игры)
   * Laying Out a Plan 
     * Cast of Characters 
     * Locations 
@@ -282,7 +282,7 @@
     * Replacing Links with Passages 
     * Prompting the User 
   * In Closing 
-* Chapter 8: Promotional Strategies 
+* [Глава 8. Рекламная стратегия](chapter_8.md#глава-8-рекламная-стратегия)
   * Your Online Audience 
   * Online Distribution for Budding Visual Novelists 
     * Releasing for Free 
