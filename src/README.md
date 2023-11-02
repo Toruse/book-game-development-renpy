@@ -226,9 +226,9 @@
     * [Иконки для iOS](chapter_6.md#иконки-для-ios)
   * [Заключение](chapter_6.md#заключение)
 * [Глава 7. Три мини игры](chapter_7.md#глава-7-три-мини-игры)
-  * Laying Out a Plan 
-    * Cast of Characters 
-    * Locations 
+  * [Составляем план](chapter_7.md#составляем-план)
+    * [Состав персонажей](chapter_7.md#состав-персонажеи)
+    * [Локации](chapter_7.md#локации)
   * Part I: The Beginnings of Taking Back August in Ren’Py 
     * Starting the Project 
     * Setting Up the Characters 
