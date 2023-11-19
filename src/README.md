@@ -229,7 +229,7 @@
   * [Составляем план](chapter_7.md#составляем-план)
     * [Состав персонажей](chapter_7.md#состав-персонажеи)
     * [Локации](chapter_7.md#локации)
-  * Part I: The Beginnings of Taking Back August in Ren’Py 
+  * [Часть I: Начало "Август возвращается" в Ren’Py](chapter_7.md#часть-i-начало-август-возвращается-в-ren-py) 
     * Starting the Project 
     * Setting Up the Characters 
     * Custom Transitions 
