@@ -230,12 +230,12 @@
     * [Состав персонажей](chapter_7.md#состав-персонажеи)
     * [Локации](chapter_7.md#локации)
   * [Часть I: Начало "Август возвращается" в Ren’Py](chapter_7.md#часть-i-начало-август-возвращается-в-ren-py) 
-    * Starting the Project 
-    * Setting Up the Characters 
-    * Custom Transitions 
-    * Assigning Images to Characters 
-    * Preparing Other Audiovisual Assets 
-    * Into the Fray! 
+    * [Создание проекта](chapter_7.md#создание-проекта)
+    * [Настройка персонажей](chapter_7.md#настроика-персонажеи)
+    * [Переходы](chapter_7.md#переходы)
+    * [Изображения для персонажей](chapter_7.md#изображения-для-персонажеи) 
+    * [Подготовка ассетов](chapter_7.md#подготовка-ассетов)
+    * [В бой!](chapter_7.md#в-бои)
     * Commenting Your Code 
     * Your First Menu 
     * Using Conditional Statements 
