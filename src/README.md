@@ -236,9 +236,9 @@
     * [Изображения для персонажей](chapter_7.md#изображения-для-персонажеи) 
     * [Подготовка ассетов](chapter_7.md#подготовка-ассетов)
     * [В бой!](chapter_7.md#в-бои)
-    * Commenting Your Code 
-    * Your First Menu 
-    * Using Conditional Statements 
+    * [Комментирование кода](chapter_7.md#комментирование-кода)
+    * [Ваше первое меню](chapter_7.md#ваше-первое-меню)
+    * [Использование условного оператора](chapter_7.md#использование-условного-оператора)
     * Setting the Text Speed 
     * Upgrading the Inventory System 
     * Adding Functions (and Reusing Variables) 
