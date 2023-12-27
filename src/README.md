@@ -239,7 +239,7 @@
     * [Комментирование кода](chapter_7.md#комментирование-кода)
     * [Ваше первое меню](chapter_7.md#ваше-первое-меню)
     * [Использование условного оператора](chapter_7.md#использование-условного-оператора)
-    * Setting the Text Speed 
+    * [Настройка скорости текста](chapter_7.md#настроика-скорости-текста)
     * Upgrading the Inventory System 
     * Adding Functions (and Reusing Variables) 
     * Particles with SnowBlossom 
