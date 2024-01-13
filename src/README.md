@@ -240,8 +240,8 @@
     * [Ваше первое меню](chapter_7.md#ваше-первое-меню)
     * [Использование условного оператора](chapter_7.md#использование-условного-оператора)
     * [Настройка скорости текста](chapter_7.md#настроика-скорости-текста)
-    * Upgrading the Inventory System 
-    * Adding Functions (and Reusing Variables) 
+    * [Обновляем систему инвентаря](chapter_7.md#обновляем-систему-инвентаря)
+    * [Добавляем функции](chapter_7.md#добавляем-функции)
     * Particles with SnowBlossom 
     * Randomizing Dialogue 
     * Styles and Hyperlinks 
