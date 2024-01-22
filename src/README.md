@@ -242,8 +242,8 @@
     * [Настройка скорости текста](chapter_7.md#настроика-скорости-текста)
     * [Обновляем систему инвентаря](chapter_7.md#обновляем-систему-инвентаря)
     * [Добавляем функции](chapter_7.md#добавляем-функции)
-    * Particles with SnowBlossom 
-    * Randomizing Dialogue 
+    * [Система частиц с SnowBlossom](chapter_7.md#система-частиц-с-snowblossom)
+    * [Случайный диалог](chapter_7.md#случаиныи-диалог)
     * Styles and Hyperlinks 
     * Adding Videos 
     * Text Speed on the Fly 
