@@ -244,8 +244,8 @@
     * [Добавляем функции](chapter_7.md#добавляем-функции)
     * [Система частиц с SnowBlossom](chapter_7.md#система-частиц-с-snowblossom)
     * [Случайный диалог](chapter_7.md#случаиныи-диалог)
-    * Styles and Hyperlinks 
-    * Adding Videos 
+    * [Стили и гиперссылки](chapter_7.md#стили-и-гиперссылки) 
+    * [Добавляем видео](chapter_7.md#добавляем-видео)
     * Text Speed on the Fly 
     * More Fun with Text 
   * Part II: The Middle of Reginald’s Story with TyranoBuilder 

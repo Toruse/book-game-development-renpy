@@ -291,7 +291,7 @@ label checktime<span class="token punctuation">:</span>
          jump firedesk_c
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>После чего игрок видит меню из трёх пунктов. Сделав выбор, вызывается функция <em>checktime</em>, которая уменьшает оставшееся время на пять единиц. Если значение времени станет ниже пяти, то функция перенесет игрока к метке <em>burn</em> окончания игры. В этой части кода хорошо показано, как вынесенный повторяющийся код в функцию сокращает его размер.</p><p>Когда игрок попадает в комнату с DVD-диском (<em>firedesk_c</em>), то выполняется функция <em>check_dvd</em>, которая добавить диск к инвентарю, и отметит, что он найден.</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    menu outwindow<span class="token punctuation">:</span>
      <span class="token string">&quot;Выбери действие. У вас осталось [time] секунд. Вы находитесь в помещении офиса.&quot;</span>
-     <span class="token string">&quot;Вылезти в окно&quot;</span><span class="token punctuation">:</span>
+     <span class="token string">&quot;Вылезти через окно&quot;</span><span class="token punctuation">:</span>
          call checktime
          jump window
 
@@ -370,4 +370,64 @@ label checktime<span class="token punctuation">:</span>
     $ renpy<span class="token punctuation">.</span>full_restart<span class="token punctuation">(</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>После этого используя метод <em>full_restart</em> сбрасываем игру, отобразив игроку главное меню. Игра окончена!</p><p>Теперь вставим код, когда главный герой успешно находит DVD-диск и спасается от огня:</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>label window<span class="token punctuation">:</span>
     <span class="token string">&quot;В конце концов вы находите спасение выбравшись из офиса через окно и спустившись по пожарной лестнице!&quot;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="случаиныи-диалог" tabindex="-1"><a class="header-anchor" href="#случаиныи-диалог" aria-hidden="true">#</a> Случайный диалог</h3>`,229),d=[i];function o(p,l){return s(),e("div",null,d)}const u=n(t,[["render",o],["__file","chapter_7.html.vue"]]);export{u as default};
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="случаиныи-диалог" tabindex="-1"><a class="header-anchor" href="#случаиныи-диалог" aria-hidden="true">#</a> Случайный диалог</h3><p>Давайте добавим в историю случайные диалоги, чтобы разнообразить игру.</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    $ randomdialogue <span class="token operator">=</span> renpy<span class="token punctuation">.</span>random<span class="token punctuation">.</span>choice<span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">&#39;Телефон в портфеле снова зазвонил.&#39;</span><span class="token punctuation">,</span> <span class="token string">&#39;Из портфеля раздался пронзительно громкий звук.&#39;</span><span class="token punctuation">,</span> <span class="token string">&#39;Зазвонил старый мобильный телефон.&#39;</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+
+    play sound <span class="token string">&quot;sounds/phone.wav&quot;</span> loop
+
+    <span class="token comment"># Отображаем случайный диалог</span>
+    <span class="token string">&quot;[randomdialogue]&quot;</span>
+
+    stop sound
+    show roy<span class="token punctuation">:</span>
+        xalign <span class="token number">0.0</span>
+        xpos <span class="token number">0.2</span>
+        ypos <span class="token number">0.2</span>
+    <span class="token keyword">with</span> dissolve
+
+    roy <span class="token string">&quot;Молодец. Теперь иди домой и жди дальнейших указаний. Если необходимо, защити диск ценой своей жизни.&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>В данной части кода используя переменную randomdialogue строка <em>&quot;[randomdialogue]&quot;</em> выводит одну из трех строк, хранящихся в переменной <em>random_narration</em>.</p><p>То есть если нам понадобиться получить и вывести случайное значение, нужно написать приблизительно следующие строки:</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    <span class="token comment"># Генерируем случайное число от 20 до 80</span>
+    $ random_number <span class="token operator">=</span> renpy<span class="token punctuation">.</span>random<span class="token punctuation">.</span>randint<span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">,</span> <span class="token number">80</span><span class="token punctuation">)</span>
+
+    <span class="token string">&quot;Вы в мотивированы на [random_number]%%, чтобы продолжить квест!&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Здесь мы инициализируем переменную <em>random_number</em>, и присваиваем ей значение от 1 до 100. Далее выводим её в диалоге игры. Однако нам нужно отобразить символ <em>%</em>, а это зарезервированный символ, для этого заменим его на запись <em>%%</em>, иначе Ren’Py выдаст ошибку.</p><p>А если потребуется сгенерировать случайное значение с плавающей запятой от 0 до 1 (например, <em>0,5</em> или <em>0,9</em>), то нужно воспользоваться методом <em>renpy.random.random()</em>.</p><h3 id="стили-и-гиперссылки" tabindex="-1"><a class="header-anchor" href="#стили-и-гиперссылки" aria-hidden="true">#</a> Стили и гиперссылки</h3><p>Сценарий этой маленькой игры заканчивается следующим образом:</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>label home<span class="token punctuation">:</span>
+
+    scene london2
+    <span class="token keyword">with</span> dissolve
+
+    <span class="token comment"># Мы используем музыкальный канал для воспроизведения фона, так как он</span>
+    <span class="token comment"># позволяет зациклит и применить затухание к аудио дорожке.</span>
+    play music <span class="token punctuation">[</span> <span class="token string">&quot;sounds/london_bridge.wav&quot;</span> <span class="token punctuation">]</span> fadein <span class="token number">10.0</span> loop
+
+    <span class="token string">&quot;Чем ближе Рон становился к дому, тем спокойней себя чувствовал.&quot;</span> 
+
+    play sound <span class="token string">&quot;sounds/phone.wav&quot;</span> loop
+
+    <span class="token string">&quot;Телефон снова зазвонил.&quot;</span>
+    stop sound
+
+    <span class="token string">&quot;Ответив, он услышал женский голос.&quot;</span>
+   
+    <span class="token comment"># Показываем Рейн с серьёзным лицом</span>
+    show rai serious<span class="token punctuation">:</span>
+        xalign <span class="token number">0.0</span>
+        xpos <span class="token number">0.2</span>
+        ypos <span class="token number">0.2</span>
+    <span class="token keyword">with</span> dissolve
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Как видим, код выводит диалоги без форматирования. В конце, командой <em>show rai serious</em>, изменяем лицо Рейн на серьёзное, которое было определено ещё в начале сценария.</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    rai <span class="token string">&quot;{i}Ни в коем случае, не возвращайтесь домой!{/i} Покинь город прямо {u}сейчас.{/u} Сядь на поезд, и уезжай на север.&quot;</span>
+    rai <span class="token string">&quot;Главное не задерживайся! Чуть позже я тебе перезвоню. {b}И не потеряй диск!{/b}&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>Следующая часть кода сменяет лицо Рейн на дерзкое, оно является лицом по умолчанию. Напомним, что если команда show применяется без каких-либо параметров, то будет показано изображение персонажа по умолчанию (например, <em>rai.png</em>, <em>roy.png</em> и <em>reg.png</em>).</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    <span class="token comment"># Меняем лицо Рейн с серьёзного на дерзкое</span>
+    hide rai
+    show rai<span class="token punctuation">:</span>
+        xalign <span class="token number">0.0</span>
+        xpos <span class="token number">0.2</span>
+        ypos <span class="token number">0.2</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>В предыдущих диалогах мы применили к тексту три стиля: жирный, курсив и нижнее подчеркивание. Для этого строки оборачиваются в специальные теги состоящий из фигурных скобок с символом нужного стиля внутри (например, <em>{u}</em>). Но помните, используйте форматирование с умом, чтобы текст был легко читаем.</p><p>Теперь, давайте вставим немного рекламы в виде гиперссылки в диалоге.</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    rai <span class="token string">&quot;О, когда будет свободное время, посетите {a=https://www.example.com}этот сайт{/a}.&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>Как видим гиперссылки в Ren’Py встраиваются при помощи тега <em>a</em>, и после символа равно указывается ссылка на ресурс.</p><p>Если нужно изменить размер текста, то воспользуйтесь тегом <em>size</em>. Пример его использования, а также как можно комбинировать теги, показано в следующем коде.</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>    rai <span class="token string">&quot;Я каждый день на нём нахожу что-то новое. Он очень {size=+10}{i}увлекательный{/i}{/size}.&quot;</span>
+    hide rai
+
+    <span class="token comment"># Заменяем фоновый звук на другой </span>
+    play music <span class="token punctuation">[</span> <span class="token string">&quot;sounds/ambience.wav&quot;</span> <span class="token punctuation">]</span> fadein <span class="token number">10.0</span> loop
+
+    <span class="token comment"># Музыкальный канал отлично подходит и для создания атмосферного фона, </span>
+    <span class="token comment"># и для воспроизведения аудио с определёнными параметрами.</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="добавляем-видео" tabindex="-1"><a class="header-anchor" href="#добавляем-видео" aria-hidden="true">#</a> Добавляем видео</h3>`,250),d=[i];function o(p,l){return s(),e("div",null,d)}const u=n(t,[["render",o],["__file","chapter_7.html.vue"]]);export{u as default};
