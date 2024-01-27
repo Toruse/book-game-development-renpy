@@ -246,12 +246,12 @@
     * [Случайный диалог](chapter_7.md#случаиныи-диалог)
     * [Стили и гиперссылки](chapter_7.md#стили-и-гиперссылки) 
     * [Добавляем видео](chapter_7.md#добавляем-видео)
-    * Text Speed on the Fly 
-    * More Fun with Text 
-  * Part II: The Middle of Reginald’s Story with TyranoBuilder 
-    * A Couple of Characters 
-    * On a Train 
-    * TyranoBuilder, Assets, and Directories 
+    * [Скорость текста на лету](chapter_7.md#скорость-текста-на-лету) 
+    * [Живой текст](chapter_7.md#живои-текст)
+  * [Часть II: Основная часть истории Рона на TyranoBuilder](chapter_7.md#часть-ii-основная-часть-истории-рона-на-tyranobuilder) 
+    * [Персонажи](chapter_7.md#персонажи)
+    * [Поезд](chapter_7.md#поезд) 
+    * [Ассеты и каталоги](chapter_7.md#ассеты-и-каталоги)
     * Sounds on a Train 
     * First Glimpses of Interaction and Variables 
     * Random Dialogue in TyranoBuilder 
