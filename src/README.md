@@ -252,8 +252,8 @@
     * [Персонажи](chapter_7.md#персонажи)
     * [Поезд](chapter_7.md#поезд) 
     * [Ассеты и каталоги](chapter_7.md#ассеты-и-каталоги)
-    * Sounds on a Train 
-    * First Glimpses of Interaction and Variables 
+    * [Звуки в поезде](chapter_7.md#звуки-в-поезде) 
+    * [Взаимодействие и переменные](chapter_7.md#взаимодеиствие-и-переменные)
     * Random Dialogue in TyranoBuilder 
     * Adding Labels in TyranoScript 
     * The Might of the 3D Camera 
