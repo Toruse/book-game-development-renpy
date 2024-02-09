@@ -254,8 +254,8 @@
     * [Ассеты и каталоги](chapter_7.md#ассеты-и-каталоги)
     * [Звуки в поезде](chapter_7.md#звуки-в-поезде) 
     * [Взаимодействие и переменные](chapter_7.md#взаимодеиствие-и-переменные)
-    * Random Dialogue in TyranoBuilder 
-    * Adding Labels in TyranoScript 
+    * [Случайный диалог](chapter_7.md#случаиныи-диалог-1)
+    * [Метки в TyranoScript](chapter_7.md#метки-в-tyranoscript)
     * The Might of the 3D Camera 
     * TyranoScript Macros 
     * Mixing Graphics with Text 
