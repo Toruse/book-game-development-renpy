@@ -256,9 +256,9 @@
     * [Взаимодействие и переменные](chapter_7.md#взаимодеиствие-и-переменные)
     * [Случайный диалог](chapter_7.md#случаиныи-диалог-1)
     * [Метки в TyranoScript](chapter_7.md#метки-в-tyranoscript)
-    * The Might of the 3D Camera 
-    * TyranoScript Macros 
-    * Mixing Graphics with Text 
+    * [Эффект 3D-камеры](chapter_7.md#эффект-3d-камеры) 
+    * [Макросы TyranoScript](chapter_7.md#макросы-tyranoscript)
+    * [Графические объекты в диалогах](chapter_7.md#графические-объекты-в-диалогах)
     * Graphical Buttons 
     * The Grand Finale Featuring Nasuka 
     * Various Tags and Tools 
