@@ -259,9 +259,9 @@
     * [Эффект 3D-камеры](chapter_7.md#эффект-3d-камеры) 
     * [Макросы TyranoScript](chapter_7.md#макросы-tyranoscript)
     * [Графические объекты в диалогах](chapter_7.md#графические-объекты-в-диалогах)
-    * Graphical Buttons 
-    * The Grand Finale Featuring Nasuka 
-    * Various Tags and Tools 
+    * [Графические кнопки](chapter_7.md#графические-кнопки)
+    * [Грандиозный финал с использованием Live2D](chapter_7.md#грандиозныи-финал-с-использованием-live2d)
+    * [Ещё теги](chapter_7.md#еще-теги)
   * Part III: Telling Tales with Twine 
     * Fonts and Colors 
     * Fun with Harlowe and Variables 
