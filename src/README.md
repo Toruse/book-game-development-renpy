@@ -262,7 +262,7 @@
     * [Графические кнопки](chapter_7.md#графические-кнопки)
     * [Грандиозный финал с использованием Live2D](chapter_7.md#грандиозныи-финал-с-использованием-live2d)
     * [Ещё теги](chapter_7.md#еще-теги)
-  * Part III: Telling Tales with Twine 
+  * [Часть III: Расскажем историю с помощью Twine](chapter_7.md#часть-iii-расскажем-историю-с-помощью-twine) 
     * Fonts and Colors 
     * Fun with Harlowe and Variables 
     * Custom Tags and Background Visuals 
