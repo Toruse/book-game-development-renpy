@@ -263,9 +263,9 @@
     * [Грандиозный финал с использованием Live2D](chapter_7.md#грандиозныи-финал-с-использованием-live2d)
     * [Ещё теги](chapter_7.md#еще-теги)
   * [Часть III: Расскажем историю с помощью Twine](chapter_7.md#часть-iii-расскажем-историю-с-помощью-twine) 
-    * Fonts and Colors 
-    * Fun with Harlowe and Variables 
-    * Custom Tags and Background Visuals 
+    * [Шрифты и цвета](chapter_7.md#шрифты-и-цвета)
+    * [Работа с переменными](chapter_7.md#работа-с-переменными)
+    * [Пользовательские теги](chapter_7.md#пользовательские-теги)
     * An Inventory in Harlowe 
     * Refining Our Inventory and the Twine Footer 
     * Resuming Our Story 
