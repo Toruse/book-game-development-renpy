@@ -266,8 +266,8 @@
     * [Шрифты и цвета](chapter_7.md#шрифты-и-цвета)
     * [Работа с переменными](chapter_7.md#работа-с-переменными)
     * [Пользовательские теги](chapter_7.md#пользовательские-теги)
-    * An Inventory in Harlowe 
-    * Refining Our Inventory and the Twine Footer 
+    * [Инвентарь](chapter_7.md#инвентарь)
+    * [Вывод инвентаря и футер в Twine](chapter_7.md#вывод-инвентаря-и-футер-в-twine)
     * Resuming Our Story 
     * Unlocking Locations with Items 
     * Food, Dramatic Moments, and More Macros 
