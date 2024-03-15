@@ -268,9 +268,9 @@
     * [Пользовательские теги](chapter_7.md#пользовательские-теги)
     * [Инвентарь](chapter_7.md#инвентарь)
     * [Вывод инвентаря и футер в Twine](chapter_7.md#вывод-инвентаря-и-футер-в-twine)
-    * Resuming Our Story 
-    * Unlocking Locations with Items 
-    * Food, Dramatic Moments, and More Macros 
+    * [Возвращаемся к истории](chapter_7.md#возвращаемся-к-истории)
+    * [Когда предметы собраны](chapter_7.md#когда-предметы-собраны) 
+    * [Еда и макросы](chapter_7.md#еда-и-макросы)
     * Datamaps and Datasets 
     * Extreme Fun with Arrays 
     * More Visual Effects 
