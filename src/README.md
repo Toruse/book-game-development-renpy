@@ -271,9 +271,9 @@
     * [Возвращаемся к истории](chapter_7.md#возвращаемся-к-истории)
     * [Когда предметы собраны](chapter_7.md#когда-предметы-собраны) 
     * [Еда и макросы](chapter_7.md#еда-и-макросы)
-    * Datamaps and Datasets 
-    * Extreme Fun with Arrays 
-    * More Visual Effects 
+    * [Маппинг данных и Наборы данных (Дата-сет)](chapter_7.md#маппинг-данных-и-наборы-данных) 
+    * [Развлекаемся с массивами](chapter_7.md#развлекаемся-с-массивами)
+    * [Больше визуальных эффектов](chapter_7.md#больше-визуальных-эффектов)
     * Real-Time Twine 
     * Our First Game Over 
     * Hiding That Pesky Inventory 

@@ -12,7 +12,8 @@
 * Adrift https://www.adrift.co/
 * Visual Novel Maker https://visualnovelmaker.com/
 * Энциклопедия Ren'Py http://ru.renpypedia.shoutwiki.com/
-* Документация по SugarCube https://www.motoslave.net/sugarcube/2/docs/
+* Документация по SugarCube Twine https://www.motoslave.net/sugarcube/2/docs/
+* Документация по Harlowe Twine https://twine2.neocities.org/
 * IFID https://ifdb.org/help-ifid
 * TyranoBuilder: https://tyranobuilder.com/
 * TyranoBuilder: https://tyrano.jp/
