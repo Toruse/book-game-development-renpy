@@ -274,10 +274,10 @@
     * [Маппинг данных и Наборы данных (Дата-сет)](chapter_7.md#маппинг-данных-и-наборы-данных) 
     * [Развлекаемся с массивами](chapter_7.md#развлекаемся-с-массивами)
     * [Больше визуальных эффектов](chapter_7.md#больше-визуальных-эффектов)
-    * Real-Time Twine 
-    * Our First Game Over 
-    * Hiding That Pesky Inventory 
-    * Adding Graphical Bars 
+    * [Twine в реальном времени](chapter_7.md#twine-в-реальном-времени)
+    * [Первое окончание игры](chapter_7.md#первое-окончание-игры)
+    * [Скрываем вывод инвентаря](chapter_7.md#скрываем-вывод-инвентаря)
+    * [Добавляем прогресс бар](chapter_7.md#добавляем-прогресс-бар)
     * Transitions and Rotation: More Visual Flair 
     * Replacing Links with Passages 
     * Prompting the User 
