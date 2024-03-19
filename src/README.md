@@ -278,10 +278,10 @@
     * [Первое окончание игры](chapter_7.md#первое-окончание-игры)
     * [Скрываем вывод инвентаря](chapter_7.md#скрываем-вывод-инвентаря)
     * [Добавляем прогресс бар](chapter_7.md#добавляем-прогресс-бар)
-    * Transitions and Rotation: More Visual Flair 
-    * Replacing Links with Passages 
-    * Prompting the User 
-  * In Closing 
+    * [Переходы и вращение](chapter_7.md#переходы-и-вращение)
+    * [Замена ссылки на параграф](chapter_7.md#замена-ссылки-на-параграф) 
+    * [Спрашиваем пользователя](chapter_7.md#спрашиваем-пользователя)
+  * Заключение 
 * [Глава 8. Рекламная стратегия](chapter_8.md#глава-8-рекламная-стратегия)
   * Your Online Audience 
   * Online Distribution for Budding Visual Novelists 
@@ -297,5 +297,5 @@
     * Trailer Video 
     * Blog 
     * Visual Novel Databases 
-  * In Closing
+  * Заключение
 * [Источники](sources.md)
