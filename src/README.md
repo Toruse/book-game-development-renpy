@@ -287,7 +287,7 @@
   * [Распространение через интернет](chapter_8.md#распространение-через-интернет)
     * [Опубликовать бесплатно](chapter_8.md#опубликовать-бесплатно)
     * [Продаем визуальную новеллу](chapter_8.md#продаем-визуальную-новеллу)
-  * Essential Marketing Practices 
+  * [Маркетинговая стратегия](chapter_8.md#маркетинговая-стратегия)
     * Forum Decorum 
     * Demo Games 
     * Penetrating the Market with Free Stuff 
