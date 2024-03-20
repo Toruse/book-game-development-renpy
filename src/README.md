@@ -283,10 +283,10 @@
     * [Спрашиваем пользователя](chapter_7.md#спрашиваем-пользователя)
   * [Заключение](chapter_7.md#заключение)
 * [Глава 8. Рекламная стратегия](chapter_8.md#глава-8-рекламная-стратегия)
-  * Your Online Audience 
-  * Online Distribution for Budding Visual Novelists 
-    * Releasing for Free 
-    * Selling Your Visual Novels 
+  * [Ваша онлайн-аудитория](chapter_8.md#ваша-онлаин-аудитория) 
+  * [Распространение через интернет](chapter_8.md#распространение-через-интернет)
+    * [Опубликовать бесплатно](chapter_8.md#опубликовать-бесплатно)
+    * [Продаем визуальную новеллу](chapter_8.md#продаем-визуальную-новеллу)
   * Essential Marketing Practices 
     * Forum Decorum 
     * Demo Games 
@@ -297,5 +297,5 @@
     * Trailer Video 
     * Blog 
     * Visual Novel Databases 
-  * Заключение
+  * [Заключение](chapter_8.md#заключение)
 * [Источники](sources.md)
